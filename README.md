@@ -1,9 +1,9 @@
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
-
+Ajudar curso github
 ## What it does
-
+Ajuda a praticar
 FEATURES PLACEHOLDER
 
 ## Getting started
