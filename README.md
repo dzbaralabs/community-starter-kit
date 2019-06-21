@@ -3,7 +3,7 @@
 DESCRIPTION PLACEHOLDER
 Ajudar curso github
 ## What it does
-Ajuda a praticar
+Um aplicativo GitHub criado com o probot que celebra a nova atividade do usuário em seu repositório.
 FEATURES PLACEHOLDER
 
 ## Getting started
